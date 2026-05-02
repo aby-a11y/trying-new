@@ -1,4 +1,4 @@
-"""Backend tests for Restaurant QR ordering system."""
+"""Backend tests for Restaurant QR ordering systems."""
 import os
 import io
 import json
